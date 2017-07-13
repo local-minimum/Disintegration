@@ -75,17 +75,14 @@ opened the door to leave the room it felt like a whole new world out there. And 
 
 This time she would never return. Cat popped open the secret packing list.
 
+```
 [X] painting of my family, by me, age four-five.
-
 [X] toy alarm clock
-
 ...
-
 [ ] black top
-
 [ ] extra bra
-
 [ ] red mini warrior figurine
+```
 
 Closing the ugly white door, she ticked off the last three items. The list had included
 some mementos, some random items, some things she wanted to keep, some she hated and
